@@ -45,7 +45,7 @@
   "dependencies": {
     "github-api": "^3.0.0",
     "npm-check-updates": "^2.14.2",
-    "shelljs": "^0.8.2"
+    "shelljs": "^0.8.5"
   },
   "devDependencies": {
     "conventional-changelog-cli": "^2.0.1",
